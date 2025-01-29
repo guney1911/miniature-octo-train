@@ -19,7 +19,7 @@ Please refer to the relevant documentation [here](Simulation/README.md). The pac
 ~~~shell
 pip install ./Simulation/
 ~~~
-When writing new extensions as above, please do not forget to reinstall the library after editing the code in the [Simulation](Simulation) directory.
+When changing the simulation code, please do not forget to reinstall the library after editing the code in the [Simulation](Simulation) directory.
 
 There are example scripts for the stand-alone solver and the full simulation provided in the [Examples](Examples) directory.
 Examples from the scripts we used for our research are provided in the [Old_Code](Old_Code) directory.
